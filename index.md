@@ -8,4 +8,6 @@
 layout: home
 ---
 
-Let's be honest: we all love food. On this page, I will save good diners, drive-Ins and dives, some restaurants and of course bars. Just good ones (as a reminder for myself), not all the places I visit.
+# So what?
+
+Let's be honest: we all love food. On this page, I will save good diners, drive-ins and dives, some restaurants and of course bars. Just good ones (as a reminder for myself), not all the places I visit.
