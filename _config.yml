@@ -3,6 +3,6 @@ remote_theme: "mmistakes/so-simple-theme@3.2.0"
 
 skin: "/assets/css/skins/light.css"
 
-logo: "images/drink.png"
+logo: "images/restaurant.png"
 title: "Not a random site"
 description: "Let's be honest: we all love food. Here I save good diners, drive-ins, dives, some restaurants and of course bars. Just good ones (as a reminder for myself)."
