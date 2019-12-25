@@ -1,1 +1,7 @@
-theme: minima
+# theme: minima
+remote_theme: "mmistakes/so-simple-theme@3.2.0"
+
+skin: "/assets/css/skins/light.css"
+
+title: "Not a random site"
+description: "food and bar life experience"
