@@ -2,9 +2,7 @@
 layout: post
 title: "Lost & Found"
 date: 2019-12-21 17:13:00 -0200
-tags:
-    - kyiv
-    - bar
+categories: [kyiv, bar]
 ---
 
 After the initial discovery, the ["Lost & Found"](https://www.facebook.com/lostandfoundkyiv/) bar in Kyiv quickly became one of my favorite bars in Kyiv. The name describes its concepts: the bar counter is created from the small boxes covered with glass. Each of the boxes contains an item that has been '_lost_' by one of the visitors. The first items were brought by the bar owners, but people quickly liked the idea and started bringing their stuff to the bar. The items are from various places all around the world, including IDs, condoms and wedding rings. I also left a piece there: a Hyperledger pin in and a sticker for the milieu of the place.
@@ -13,6 +11,6 @@ The bartenders are quite talkative. The lucky ones who sit on the bar in the cal
 
 Every time you visit a bar, the cocktails are dedicated to a special topic. At the moment of writing, there are old-time movie cocktails. Only the true cinema-lover would know all the movies, but it makes the cocktail tasting even more interesting. Grab a drink and start googling.
 
-The bar has special opening times: from Wednesday to Saturday. On the other days, the bar is closed. So, plan accordingly!
+The bar has several special events during the year: New Year, Happy Birthday (June, 11th), Dia de Muertos, Thanksgiving, and Christmas. Also, note that the bar has special opening times: from Wednesday to Saturday. On the other days, the bar is closed. So, plan accordingly!
 
 **Address**: vul Volodymyrska, 93, Kyiv, Ukraine
