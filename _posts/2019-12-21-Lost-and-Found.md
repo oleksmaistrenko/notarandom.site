@@ -5,7 +5,7 @@ date: 2019-12-21 17:13:00 -0200
 categories: [kyiv, bar]
 ---
 
-After the initial discovery, the ["Lost & Found"](https://www.facebook.com/lostandfoundkyiv/) bar in Kyiv quickly became one of my favorite bars in Kyiv. The name describes its concepts: the bar counter is created from the small boxes covered with glass. Each of the boxes contains an item that has been '_lost_' by one of the visitors. The first items were brought by the bar owners, but people quickly liked the idea and started bringing their stuff to the bar. The items are from various places all around the world, including IDs, condoms and wedding rings. I also left a piece there: a Hyperledger pin in and a sticker for the milieu of the place.
+After the initial discovery, the ["Lost & Found"](https://www.facebook.com/lostandfoundkyiv/) bar in Kyiv quickly became one of my favorite bars in Kyiv. The name describes its concepts: the bar counter is created from the small boxes covered with glass. Each of the boxes contains an item that has been '_lost_' by one of the visitors. The first items were brought by the bar owners, but people quickly liked the idea and started bringing their stuff to the bar. The items are from various places all around the world, including IDs, condoms and wedding rings. I also left a piece there: a Hyperledger pin and a sticker for the milieu of the place.
 
 ![image-center]({{ '/images/places/lost-and-found.jpeg' | absolute_url }}){: .align-center}
 
