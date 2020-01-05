@@ -7,4 +7,6 @@ categories: [liege, restaurant]
 
 The Les [Sabots d'Hélène](https://lessabotsdhelene.be) is grill restaurant in Liege.
 
-**Address**: Rue Saint-Jean-en-Isle 18, Liège, Belgium
+![image-center]({{ '/images/places/sabots-dhelene.jpg' | absolute_url }}){: .align-center}
+
+**Address**: [Rue Saint-Jean-en-Isle 18, Liège, Belgium](https://goo.gl/maps/bfc1xbiqKFySNQHV8)
