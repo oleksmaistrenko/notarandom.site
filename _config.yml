@@ -5,4 +5,22 @@ skin: "/assets/css/skins/light.css"
 
 logo: "images/restaurant.png"
 title: "Not a random site"
-description: "Let's be honest: we all love food. Here I save good diners, drive-ins, dives, some restaurants and of course bars. Just good ones (as a reminder for myself)."
+description: "We all love food. This is the place for selected restaurants and bars. Just good ones."
+
+author:
+  name: Oleks Maistrenko
+  picture:
+  email:
+  twitter:
+  # links:
+  #   - title: Twitter
+  #     url: https://twitter.com/mmistakes
+  #     icon: fab fa-twitter-square
+    - title: Instagram
+      url: https://www.instagram.com/01eks
+      icon: fab fa-instagram
+  #   - title: GitHub
+  #     url: https://github.com/mmistakes
+  #     icon: fab fa-github-square
+
+  copyright: "Not a random site. All statements are authors point selected with <3"
