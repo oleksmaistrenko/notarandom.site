@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lost & Found"
-excerpt: "After the initial discovery, the ["Lost & Found"](https://www.facebook.com/lostandfoundkyiv/) bar in Kyiv quickly became one of my favorite bars in Kyiv..."
+excerpt: "After the initial discovery, the Lost & Found bar in Kyiv quickly became one of my favorite bars in Kyiv."
 date: 2019-12-21 17:13:00 -0200
 tags:
     - kyiv
