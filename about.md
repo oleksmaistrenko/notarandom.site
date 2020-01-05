@@ -2,6 +2,6 @@
 layout: page
 ---
 
-This is an about page.
+This is a page with a map.
 
 {% include map.html %}
