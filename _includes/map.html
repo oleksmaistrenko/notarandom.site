@@ -8,7 +8,6 @@
       }
     </style>
     <script src="https://cdn.jsdelivr.net/gh/openlayers/openlayers.github.io@master/en/v6.1.1/build/ol.js"></script>
-    <title>OpenLayers example</title>
   </head>
   <body>
     <div id="map" class="map"></div>
@@ -25,18 +24,18 @@
           zoom: 4
         })
       });
-      var lonLat = new OpenLayers.LonLat( -0.1279688 ,51.5077286 )
+      var lonLat = new ol.LonLat( -0.1279688 ,51.5077286 )
           .transform(
-            new OpenLayers.Projection("EPSG:4326"), // transform from WGS 1984
+            new ol.Projection("EPSG:4326"), // transform from WGS 1984
             map.getProjectionObject() // to Spherical Mercator Projection
           );
           
     var zoom=16;
 
-    var markers = new OpenLayers.Layer.Markers( "Markers" );
+    var markers = new ol.Layer.Markers( "Markers" );
     map.addLayer(markers);
     
-    markers.addMarker(new OpenLayers.Marker(lonLat));
+    markers.addMarker(new ol.Marker(lonLat));
     
     </script>
   </body>
