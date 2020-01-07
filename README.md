@@ -17,3 +17,4 @@ The list of the places to be published:
 - [Très Branché](http://www.tres-fr.com/en/tres-branche) in Kyiv, Ukraine
 - [Mighty Quinn's Barbeque](https://www.mightyquinnsbbq.com) in New York, USA
 - [Mango's restuarant](https://www.mangosperu.com) in Lima, Peru
+- [Los Danzantes](http://losdanzantes.com/los-danzantes-coyoacan/) in Mexico City, Mexico
